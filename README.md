@@ -1,2 +1,2 @@
-# cloudmaining
+# Cloud Maining
 Cloud maining, 
